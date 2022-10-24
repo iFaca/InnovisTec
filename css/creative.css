@@ -10366,7 +10366,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #4dacbd !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10618,7 +10618,7 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #4dacbd !important;
 }
 
 @media (min-width: 992px) {
@@ -10728,7 +10728,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(62, 171, 171, 0.9);
   -webkit-transition: opacity 0.25s ease;
   transition: opacity 0.25s ease;
   text-align: center;
