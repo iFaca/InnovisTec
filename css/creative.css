@@ -108,6 +108,7 @@ address {
   line-height: inherit;
 }
 
+
 ol,
 ul,
 dl {
@@ -161,7 +162,7 @@ sup {
 }
 
 a {
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
   background-color: transparent;
 }
@@ -253,6 +254,7 @@ textarea {
   font-size: inherit;
   line-height: inherit;
 }
+
 
 button,
 input {
